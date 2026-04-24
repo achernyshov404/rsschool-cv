@@ -1,7 +1,7 @@
 # Arseniy Chernyshov
 ***
 ## Junior Frontend Developer
-===
+======
 ## Contacts
 * e-mail: achernyshov404@gmail.com
 * Discord: achernyshov404_23220
