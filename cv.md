@@ -1,8 +1,8 @@
 # Arseniy Chernyshov
 ## Junior Frontend Developer
 ## Contacts
-* **e-mail: achernyshov404@gmail.com
-* **Discord: achernyshov404_23220
+* e-mail: achernyshov404@gmail.com
+* Discord: achernyshov404_23220
 ## About Myself
 Motivated beginner frontend developer eager to kickstart a career in web development. Currently enrolled in a frontend course, diving into HTML, CSS, JavaScript, and modern frameworks. Passionate about creating responsive, user-friendly interfaces and excited to build real-world projects. Quick learner with strong problem-solving skills.
 ## Skills
